@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595066935926",
+    "project_id": "shopapp-b2dd8",
+    "storage_bucket": "shopapp-b2dd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595066935926:android:4be28882b2a0fe63655d57",
+        "android_client_info": {
+          "package_name": "com.example.doctor_app_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjjsTl7WRcUlWpBIomBQcEv2DXOOtrgI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
